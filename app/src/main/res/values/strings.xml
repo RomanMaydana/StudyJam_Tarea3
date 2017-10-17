@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">RecycleViewTiemp</string>
+    <string name="tortas">Tortas</string>
+    <string name="nombre">Nombre</string>
+    <string name="descripcion">descripcion</string>
+    <string name="cumple_mama">Día de la Madre</string>
+    <string name="descripcion1">Torta diseñada en molde redondo, con con una capa de crema batida. Con un escrito "FELICIDADES MAMÁ"</string>
+    <string name="descripcion2">Torta diseñada en molde rectangular, con con una capa de crema de batida, con los colores representativos de Monster High . Con un escrito "FELICIDADES BRIGGITA"</string>
+    <string name="descripcion3">Torta diseñada en molde redondo, con con una capa de crema batida. Con un escrito "FELICIDADES"</string>
+    <string name="descripcion4">Torta diseñada en molde redondo, con con una capa de crema batida, decorada acorde al diseo de Angry Birds</string>
+    <string name="descripcion5">Torta diseñada en molde redondo, con con una capa de crema batida, con un diseño navideño</string>
+    <string name="descripcion6">Torta diseñada en molde redondo, con con una capa de crema batida, con un diseño navideño</string>
+    <string name="descripcion7">Juego de tortas, para cumpleaños, diseñads en molde cuadrado. Haciendo uso de adornos extras de Plantas vs Zombie</string>
+    <string name="descripcion8">Torta diseñada en molde rectangular, con con una capa de crema batida, con un diseño de Hulk</string>
+    <string name="descripcion9">Torta diseñada en molde rectangular, con con una capa de crema batida, con un diseño de Batman</string>
+    <string name="descripcion10">Torta diseñada en molde cuadrado, con con una capa de crema batida, con un diseño extra de Birrete</string>
+    <string name="descripcion11">Cupcakes con diseño de Angry Birds</string>
+    <string name="cumpleaños">Monster High</string>
+    <string name="dia_del_padre">Dia del Padre</string>
+    <string name="angry_Birds">Angry Birds</string>
+    <string name="navidad">Navidad</string>
+    <string name="plantaVsZombi">Planta vs Zombi</string>
+    <string name="hulk">Hulk</string>
+    <string name="batman">Batman</string>
+    <string name="graduacion">Graduacion</string>
+    <string name="cupcakes">Cupcakes Angry Birds</string>
+</resources>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.maydana.roman.recycleviewtiemp.DetalleActivity"
+    android:background="@color/colorPrimary"
+    >
+    <ImageView
+        android:id="@+id/imagen1_detalle"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="2"
+        android:layout_margin="8dp"
+        android:src="@mipmap/ic_launcher"
+        />
+    <ImageView
+        android:id="@+id/imagen2_detalle"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="2"
+        android:layout_margin="8dp"
+        android:src="@mipmap/ic_launcher"
+        />
+    <TextView
+
+        android:id="@+id/texto_detalle"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:textSize="36sp"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:text="@string/nombre"
+        android:background="@color/colorAccent"
+        android:layout_margin="8dp"
+        />
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+    <TextView
+        android:layout_margin="8dp"
+        android:id="@+id/descripcion_detalle"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="2"
+        android:textSize="20sp"
+        android:textStyle="italic"
+        android:background="@color/colorAccent"
+        android:text="@string/descripcion"
+        android:padding="16dp"
+        />
+    </ScrollView>
+
+
+</LinearLayout>
